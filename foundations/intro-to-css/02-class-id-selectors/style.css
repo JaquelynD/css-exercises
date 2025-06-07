@@ -4,7 +4,16 @@ p {
     background-color: coral;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
 .bigtxt {
 
     font-size: 24px;
 }
+
+#blue {
+    color: blue;
+    font-size: 36px
+
+}
+
+#green
